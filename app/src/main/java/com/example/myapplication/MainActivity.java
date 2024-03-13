@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 private  String Name ;
+private String Number ;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
